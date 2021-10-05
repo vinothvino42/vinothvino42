@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-This is Vinoth, I am a Software Engineer with experience in building mobile applications using Flutter. I love to collaborating with talented people and being inspired. If you have an idea to create interesting projects then I'd like to hear from you.
+This is Vinoth, I am a Software Engineer with experience in building mobile applications using Flutter. I love to collaborating with talented people and being inspired.
 
-- 🔭 I’m currently working on a Todo app using Flutter
-- 🌱 I’m currently learning Flutter and Data Structures & Algorithms
+- 🛠 Building a Digital Products
+- 👨🏻‍💻 I’m currently learning Flutter and UI/UX Design
 - 👯 I’m looking to collaborate on any open source flutter project
 - 🖥 I used to write answers in StackOverflow
 - 💬 Ask me about Flutter | Native iOS
