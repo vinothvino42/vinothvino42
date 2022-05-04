@@ -3,7 +3,7 @@
 I am a Software Engineer with experience in building mobile applications using Flutter and Native iOS
 
 - 🛠 Building Digital Products
-- 👨🏻‍💻 I’m currently learning Flutter and UI/UX Design
+- 👨🏻‍💻 I’m currently learning Flutter and Mobile Game Development with Unity
 - 👯 I’m looking to collaborate on any open source flutter project
 - 🖥 I used to write answers in StackOverflow
 - 💬 Ask me about Flutter | Native iOS
