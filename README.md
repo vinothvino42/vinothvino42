@@ -1,12 +1,12 @@
 ### Hi there 👋
 
-I am a Software Engineer with experience in building mobile applications using Flutter and Native iOS
+I am a Software Engineer with experience in building mobile applications using SwiftUI and Flutter
 
 - 🛠 Building Digital Products
-- 👨🏻‍💻 I’m currently learning Flutter and Unity
+- 👨🏻‍💻 I’m currently learning to build apps for VisionOS 
 - 👯 I’m looking to collaborate on any open source flutter project
 - 🖥 I used to write answers in StackOverflow
-- 💬 Ask me about Flutter | Native iOS
+- 💬 Ask me about SwiftUI | Flutter
 - 📫 How to reach me: [Twitter](https://twitter.com/vinothvino42), [Linkedin](https://www.linkedin.com/in/vinothvino42/)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Take a look at [My StackOverflow Profile](https://stackoverflow.com/users/4608334/vinoth-vino).
