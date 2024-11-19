@@ -3,10 +3,10 @@
 I am a Lead - Software Engineer with 6+ years of experience in building mobile applications using SwiftUI and Flutter
 
 - 🛠 Building Digital Products
-- 👨🏻‍💻 I’m currently learning to build apps for visionOS and iOS
-- 👯 I’m looking to collaborate on any open-source SwiftUI projects
-- 🖥 I used to write answers in StackOverflow
-- 💬 Ask me about iOS, visionOS, and Frameworks (SwiftUI | Flutter | React)
+- 👨🏻‍💻 At the moment, I’m gaining expertise in app development for visionOS and iOS.
+- 👯 I’m looking to collaborate on any open-source SwiftUI / Flutter projects
+- 🖥 I engage with StackOverflow by answering questions
+- 💬 Ask me about iOS, visionOS, and Frameworks (SwiftUI | ARKit | RealityKit)
 - 📫 How to reach me: [Twitter](https://twitter.com/vinothvino42), [Linkedin](https://www.linkedin.com/in/vinothvino42/)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Take a look at [My StackOverflow Profile](https://stackoverflow.com/users/4608334/vinoth-vino).
@@ -22,4 +22,4 @@ I am a Lead - Software Engineer with 6+ years of experience in building mobile a
 **2. SO Stats**<br>
 <a href="https://www.producthunt.com/posts/so-stats?embed=true&utm_source=badge-featured&utm_medium=badge&utm_souce=badge-so&#0045;stats" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=626917&theme=light" alt="SO&#0032;Stats - Track&#0032;Your&#0032;Stack&#0032;Overflow&#0032;Activity | Product Hunt" style="width: 250px; height: 54px;" width="250" height="54" /></a>
 
-Check out all my products in the [Apple App Store](https://apps.apple.com/us/developer/vinoth-ramajeyam/id1665205517)
+Check out all my products in the [Apple App Store](https://apps.apple.com/us/developer/vinoth-ramajeyam/id1665205517) and [Product Hunt](https://www.producthunt.com/@vinothvino42)
