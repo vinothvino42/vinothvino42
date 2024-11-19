@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a Senior Software Engineer with 6+ years of experience in building mobile applications using SwiftUI and Flutter
+I am a Lead - Software Engineer with 6+ years of experience in building mobile applications using SwiftUI and Flutter
 
 - 🛠 Building Digital Products
 - 👨🏻‍💻 I’m currently learning to build apps for visionOS and iOS
