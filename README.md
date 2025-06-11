@@ -3,11 +3,11 @@
 I am a Lead - Software Engineer with 6+ years of experience in building mobile applications using SwiftUI and Flutter
 
 - 🛠 Building Digital Products
-- 👨🏻‍💻 At the moment, I’m gaining expertise in app development for visionOS and iOS.
+- 👨🏻‍💻 At the moment, I’m gaining expertise in app development for iOS, React and Nextjs.
 - 👯 I’m looking to collaborate on any open-source SwiftUI / Flutter projects
 - 🖥 I engage with StackOverflow by answering questions
-- 💬 Ask me about iOS, visionOS, and Frameworks (SwiftUI | ARKit | RealityKit)
-- 📫 How to reach me: [Twitter](https://twitter.com/vinothvino42), [Linkedin](https://www.linkedin.com/in/vinothvino42/)
+- 💬 Ask me about iOS, React, and Nextjs
+- 📫 How to reach me: [Website](https://vinothramajeyam.vercel.app), [Twitter](https://twitter.com/vinothvino42), [Linkedin](https://www.linkedin.com/in/vinothvino42/)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Take a look at [My StackOverflow Profile](https://stackoverflow.com/users/4608334/vinoth-vino).
 
