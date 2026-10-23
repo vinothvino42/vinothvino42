@@ -1,17 +1,20 @@
 ### Hi there 👋
 
-I am a Lead - Software Engineer with 6+ years of experience in building mobile applications using SwiftUI and Flutter
+I am a Lead - Software Engineer with 8+ years of experience in building mobile applications using SwiftUI and Flutter
 
 - 🛠 Building Digital Products
 - 👨🏻‍💻 At the moment, I’m gaining expertise in app development for iOS, React and Nextjs.
 - 👯 I’m looking to collaborate on any open-source SwiftUI / Flutter projects
 - 🖥 I engage with StackOverflow by answering questions
-- 💬 Ask me about iOS, React, and Nextjs
+- 💬 Ask me about iOS, Flutter, React, and Nextjs
 - 📫 How to reach me: [Website](https://vinothramajeyam.vercel.app), [Twitter](https://twitter.com/vinothvino42), [Linkedin](https://www.linkedin.com/in/vinothvino42/)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Take a look at [My StackOverflow Profile](https://stackoverflow.com/users/4608334/vinoth-vino).
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://stackoverflow.com/users/4608334/vinoth-vino"><img src="https://stackoverflow.com/users/flair/4608334.png?theme=dark" width="208" height="58" alt="profile for Vinoth Vino at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Vinoth Vino at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
+
+Currently building **Smashly** — an iOS app for tracking badminton scores.
+Check it out: [https://playsmashly.com](<https://playsmashly.com>)
 
 ## Featured Products:
 <br>
